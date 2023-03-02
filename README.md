@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Ilkin
-A passionate frontend developer from Azerbaijan
-
 
 - 🌱 I’m currently learning **javascript, react, jquery**
 - 💬 Ask me about **react, javascript, html, css, bootstrap**

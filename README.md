@@ -2,14 +2,15 @@
 A passionate frontend developer from Azerbaijan
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **javascript, react, jquery**
-- 👯 I’m looking to collaborate on ...
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **react, javascript, html, css, bootstrap**
 - 📫 How to reach me: **ilkinsufi@gmail.com**
 - 😄 Pronouns: **Ilkin**
 - ⚡ Fun fact: **The other 60% consists of me breaking the 4th wall.**
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🔭 I’m currently working on ... -->
+
 
 
 

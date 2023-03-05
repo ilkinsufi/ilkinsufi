@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ilkin
 
-- 🌱 I’m currently learning **javascript, react, jquery**
+- 🌱 I’m currently learning **javascript, react, jquery, tailwind**
 - 💬 Ask me about **react, javascript, html, css, bootstrap**
 - 📫 How to reach me: **ilkinsufi@gmail.com**
 - 😄 Pronouns: **Ilkin**
